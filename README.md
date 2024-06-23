@@ -33,7 +33,7 @@ ROS2 package for WHILL Model CR
 ## Requirements
 - Ubuntu 22.04
 - ROS 2 Humble
-- [ros2_whill_interfaces](https://github.com/WHILL/ros2_whill_interfaces)
+- [ros2_whill_interfaces(crystal-devel)](https://github.com/whill-labs/ros2_whill_interfaces/tree/crystal-devel)
 
 ## Build
 In your shell:
